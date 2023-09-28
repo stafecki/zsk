@@ -74,8 +74,12 @@ namespace project_2_3
 
             ulong ul = 10UL;
             Console.WriteLine(ul);
-
             
+            Console.WriteLine("Rozmiar typu float: " + sizeof(float)); //4 bajty = 16 bitów
+            Console.WriteLine("Rozmiar typu double: " + sizeof(double)); //8 bajtów = 32 bity
+            Console.WriteLine("Rozmiar typu decimal: " + sizeof(decimal)); //16 bajtów = 128 bitów
+
+            Console.WriteLine("Rozmiar typu char: " + sizeof(char)); //2 bajty
             
             Console.ReadKey();
         }
