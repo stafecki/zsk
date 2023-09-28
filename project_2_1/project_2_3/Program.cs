@@ -65,6 +65,17 @@ namespace project_2_3
 
             float f = 10.5F;
             Console.WriteLine(f);
+
+            float f1 = 10;
+            Console.WriteLine("f1: " + f1);
+
+            long l = 10L;
+            Console.WriteLine(l);
+
+            ulong ul = 10UL;
+            Console.WriteLine(ul);
+
+            
             
             Console.ReadKey();
         }
