@@ -54,19 +54,31 @@ namespace slowniki_2
             {
                 Console.WriteLine($"{adult.Key} - {adult.Value}");
             }*/
-            Console.Write("Podaj n: ");
-            int n = int.Parse(Console.ReadLine()!);
-            string[] names = new string[n];
-            int[] ages = new int[n];
+            Console.Write("Podaj liczbę osób: ");
+int n;
+while (!int.TryParse(Console.ReadLine(), out n) || n <= 0)
+{
+    Console.WriteLine("Nieprawidłowe dane. Podaj liczbę większą od zera:");
+}
+string[] names = new string[n];
+int[] ages = new int[n];
 
-            for (int i = 0; i < n; i++)
-            {
-                Console.Write($"Podaj imie osoby {i + 1}: ");
-                names[i] = Console.ReadLine();
-                Console.Write($"Podaj wiek osoby {i + 1}: ");
-                ages[i] = int.Parse(Console.ReadLine());
-            }
+for (int i = 0; i < n; i++)
+{
+    Console.Write($"Podaj imie osoby {i + 1}: ");
+    names[i] = Console.ReadLine();
+    Console.Write($"Podaj wiek osoby {i + 1}: ");
+    while (!int.TryParse(Console.ReadLine(), out ages[i]) || n <= 0)
+    {
+        Console.WriteLine("Nieprawidłowe dane. Podaj liczbę większą od zera:");
+    }
+}
 
+List<string> namesThatStartsWithA = names.Where(name => name.StartsWith("A",StringComparison.OrdinalIgnoreCase)).ToList();
+
+Dictionary<string, int> adults = names.Zip(ages, (name, age) => new {name, age})
+    .Where(person => person.age >= 18)
+    .ToDictionary(person => person.name, person => person.age);
             /*IEnumerable<string> namesA = 
                 from name in namesA
                 where name.StartsWith("A")
