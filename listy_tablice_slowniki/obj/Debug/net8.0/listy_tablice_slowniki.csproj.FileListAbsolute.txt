@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\listy_tablice_slowniki\bin\Debug\net8.0\listy_tablice_slowniki.exe
+C:\Users\student\Desktop\listy_tablice_slowniki\bin\Debug\net8.0\listy_tablice_slowniki.deps.json
+C:\Users\student\Desktop\listy_tablice_slowniki\bin\Debug\net8.0\listy_tablice_slowniki.runtimeconfig.json
+C:\Users\student\Desktop\listy_tablice_slowniki\bin\Debug\net8.0\listy_tablice_slowniki.dll
+C:\Users\student\Desktop\listy_tablice_slowniki\bin\Debug\net8.0\listy_tablice_slowniki.pdb
+C:\Users\student\Desktop\listy_tablice_slowniki\obj\Debug\net8.0\listy_tablice_slowniki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\listy_tablice_slowniki\obj\Debug\net8.0\listy_tablice_slowniki.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\listy_tablice_slowniki\obj\Debug\net8.0\listy_tablice_slowniki.AssemblyInfo.cs
+C:\Users\student\Desktop\listy_tablice_slowniki\obj\Debug\net8.0\listy_tablice_slowniki.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\listy_tablice_slowniki\obj\Debug\net8.0\listy_tablice_slowniki.dll
+C:\Users\student\Desktop\listy_tablice_slowniki\obj\Debug\net8.0\refint\listy_tablice_slowniki.dll
+C:\Users\student\Desktop\listy_tablice_slowniki\obj\Debug\net8.0\listy_tablice_slowniki.pdb
+C:\Users\student\Desktop\listy_tablice_slowniki\obj\Debug\net8.0\listy_tablice_slowniki.genruntimeconfig.cache
+C:\Users\student\Desktop\listy_tablice_slowniki\obj\Debug\net8.0\ref\listy_tablice_slowniki.dll
