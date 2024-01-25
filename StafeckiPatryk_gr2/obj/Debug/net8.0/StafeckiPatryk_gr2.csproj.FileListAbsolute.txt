@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\StafeckiPatryk_gr2\bin\Debug\net8.0\StafeckiPatryk_gr2.exe
+C:\Users\student\Desktop\StafeckiPatryk_gr2\bin\Debug\net8.0\StafeckiPatryk_gr2.deps.json
+C:\Users\student\Desktop\StafeckiPatryk_gr2\bin\Debug\net8.0\StafeckiPatryk_gr2.runtimeconfig.json
+C:\Users\student\Desktop\StafeckiPatryk_gr2\bin\Debug\net8.0\StafeckiPatryk_gr2.dll
+C:\Users\student\Desktop\StafeckiPatryk_gr2\bin\Debug\net8.0\StafeckiPatryk_gr2.pdb
+C:\Users\student\Desktop\StafeckiPatryk_gr2\obj\Debug\net8.0\StafeckiPatryk_gr2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\StafeckiPatryk_gr2\obj\Debug\net8.0\StafeckiPatryk_gr2.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\StafeckiPatryk_gr2\obj\Debug\net8.0\StafeckiPatryk_gr2.AssemblyInfo.cs
+C:\Users\student\Desktop\StafeckiPatryk_gr2\obj\Debug\net8.0\StafeckiPatryk_gr2.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\StafeckiPatryk_gr2\obj\Debug\net8.0\StafeckiPatryk_gr2.dll
+C:\Users\student\Desktop\StafeckiPatryk_gr2\obj\Debug\net8.0\refint\StafeckiPatryk_gr2.dll
+C:\Users\student\Desktop\StafeckiPatryk_gr2\obj\Debug\net8.0\StafeckiPatryk_gr2.pdb
+C:\Users\student\Desktop\StafeckiPatryk_gr2\obj\Debug\net8.0\StafeckiPatryk_gr2.genruntimeconfig.cache
+C:\Users\student\Desktop\StafeckiPatryk_gr2\obj\Debug\net8.0\ref\StafeckiPatryk_gr2.dll

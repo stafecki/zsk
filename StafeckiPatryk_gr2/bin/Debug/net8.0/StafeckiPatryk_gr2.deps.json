@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StafeckiPatryk_gr2/1.0.0": {
+        "runtime": {
+          "StafeckiPatryk_gr2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StafeckiPatryk_gr2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
