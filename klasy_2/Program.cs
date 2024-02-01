@@ -28,7 +28,7 @@ namespace klasy_2
             Console.WriteLine(p1.DateOfBirth);//01.02.2024 08:16:42
             Console.WriteLine(p1.DateOfBirth.Year); //2024
 
-            p1.DateOfBirth = new DateTime(2020, 1, 10);
+            p1.DateOfBirth = new DateTime(2020, 1, 10);//r/d/m
             Console.WriteLine(p1.DateOfBirth);//10.01.2020(m/d/r) 00:00:00
 
             p1.DateOfBirth = new DateTime(2020, 1, 10, 8, 19, 10);
