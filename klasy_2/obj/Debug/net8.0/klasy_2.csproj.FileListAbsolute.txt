@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\klasy_2\bin\Debug\net8.0\klasy_2.exe
+C:\Users\student\Desktop\klasy_2\bin\Debug\net8.0\klasy_2.deps.json
+C:\Users\student\Desktop\klasy_2\bin\Debug\net8.0\klasy_2.runtimeconfig.json
+C:\Users\student\Desktop\klasy_2\bin\Debug\net8.0\klasy_2.dll
+C:\Users\student\Desktop\klasy_2\bin\Debug\net8.0\klasy_2.pdb
+C:\Users\student\Desktop\klasy_2\obj\Debug\net8.0\klasy_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\klasy_2\obj\Debug\net8.0\klasy_2.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\klasy_2\obj\Debug\net8.0\klasy_2.AssemblyInfo.cs
+C:\Users\student\Desktop\klasy_2\obj\Debug\net8.0\klasy_2.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\klasy_2\obj\Debug\net8.0\klasy_2.dll
+C:\Users\student\Desktop\klasy_2\obj\Debug\net8.0\refint\klasy_2.dll
+C:\Users\student\Desktop\klasy_2\obj\Debug\net8.0\klasy_2.pdb
+C:\Users\student\Desktop\klasy_2\obj\Debug\net8.0\klasy_2.genruntimeconfig.cache
+C:\Users\student\Desktop\klasy_2\obj\Debug\net8.0\ref\klasy_2.dll
