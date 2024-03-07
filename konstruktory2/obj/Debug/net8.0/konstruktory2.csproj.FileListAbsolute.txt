@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\konstruktory2\bin\Debug\net8.0\konstruktory2.exe
+C:\Users\student\Desktop\konstruktory2\bin\Debug\net8.0\konstruktory2.deps.json
+C:\Users\student\Desktop\konstruktory2\bin\Debug\net8.0\konstruktory2.runtimeconfig.json
+C:\Users\student\Desktop\konstruktory2\bin\Debug\net8.0\konstruktory2.dll
+C:\Users\student\Desktop\konstruktory2\bin\Debug\net8.0\konstruktory2.pdb
+C:\Users\student\Desktop\konstruktory2\obj\Debug\net8.0\konstruktory2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\konstruktory2\obj\Debug\net8.0\konstruktory2.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\konstruktory2\obj\Debug\net8.0\konstruktory2.AssemblyInfo.cs
+C:\Users\student\Desktop\konstruktory2\obj\Debug\net8.0\konstruktory2.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\konstruktory2\obj\Debug\net8.0\konstruktory2.dll
+C:\Users\student\Desktop\konstruktory2\obj\Debug\net8.0\refint\konstruktory2.dll
+C:\Users\student\Desktop\konstruktory2\obj\Debug\net8.0\konstruktory2.pdb
+C:\Users\student\Desktop\konstruktory2\obj\Debug\net8.0\konstruktory2.genruntimeconfig.cache
+C:\Users\student\Desktop\konstruktory2\obj\Debug\net8.0\ref\konstruktory2.dll
