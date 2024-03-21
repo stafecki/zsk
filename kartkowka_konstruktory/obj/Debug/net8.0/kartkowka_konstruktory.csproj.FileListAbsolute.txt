@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\kartkowka_konstruktory\obj\Debug\net8.0\kartkowka_konstruktory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\kartkowka_konstruktory\obj\Debug\net8.0\kartkowka_konstruktory.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\kartkowka_konstruktory\obj\Debug\net8.0\kartkowka_konstruktory.AssemblyInfo.cs
+C:\Users\student\Desktop\kartkowka_konstruktory\obj\Debug\net8.0\kartkowka_konstruktory.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\kartkowka_konstruktory\bin\Debug\net8.0\kartkowka_konstruktory.exe
+C:\Users\student\Desktop\kartkowka_konstruktory\bin\Debug\net8.0\kartkowka_konstruktory.deps.json
+C:\Users\student\Desktop\kartkowka_konstruktory\bin\Debug\net8.0\kartkowka_konstruktory.runtimeconfig.json
+C:\Users\student\Desktop\kartkowka_konstruktory\bin\Debug\net8.0\kartkowka_konstruktory.dll
+C:\Users\student\Desktop\kartkowka_konstruktory\bin\Debug\net8.0\kartkowka_konstruktory.pdb
+C:\Users\student\Desktop\kartkowka_konstruktory\obj\Debug\net8.0\kartkowka_konstruktory.dll
+C:\Users\student\Desktop\kartkowka_konstruktory\obj\Debug\net8.0\refint\kartkowka_konstruktory.dll
+C:\Users\student\Desktop\kartkowka_konstruktory\obj\Debug\net8.0\kartkowka_konstruktory.pdb
+C:\Users\student\Desktop\kartkowka_konstruktory\obj\Debug\net8.0\kartkowka_konstruktory.genruntimeconfig.cache
+C:\Users\student\Desktop\kartkowka_konstruktory\obj\Debug\net8.0\ref\kartkowka_konstruktory.dll
