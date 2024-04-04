@@ -80,17 +80,68 @@ namespace konstruktory_animal
 
         private static void ShowAnimalDetails(List<Animal> animals)
         {
-            throw new NotImplementedException();
+            Console.Clear();
+
+            if(animals.Count == 0)
+            {
+                Console.WriteLine("Nie ma żadnych zwierząt w liście");
+            }
+            else
+            {
+                Console.WriteLine("Lista zwierząt: ");
+                for(int i = 0; i<animals.Count; i++)
+                {
+                    Console.WriteLine(i+1 + ". " + animals[i].Name);
+                }
+                Console.WriteLine("Podaj numer zwierzęcia, którego szczegóły chcesz zobaczyć: ");
+                int index = int.Parse(Console.Readline())-1;
+            }
+            Console.WriteLine("\nWciśnij dowolny klawisz, aby wrócić do meny głównego"\n);
+            Console.ReadKey();
+            ShowMainMenu();
         }
 
         private static void ShowAnimalList(List<Animal> animals)
         {
-            throw new NotImplementedException();
+            Console.Clear();
+
+            if(animals.Count == 0)
+            {
+                Console.WriteLine("Nie ma żadnych zwierząt w liście");
+            }
+            else
+            {
+                Console.WriteLine("Lista zwierząt: ");
+                for(int i = 0; i<animals.Count; i++)
+                {
+                    Console.WriteLine(i+1 + ". " + animals[i].Name);
+                }
+            }
+            Console.WriteLine("\nWciśnij dowolny klawisz, aby wrócić do meny głównego"\n);
+            Console.ReadKey();
+            ShowMainMenu();
         }
 
         private static void AddNewAnimal(List<Animal> animals)
         {
-            throw new NotImplementedException();
+            Console.Clear();
+            Console.WriteLine("Podaj nazwę zwierzęcia: ");
+            string name = Console.ReadLine();
+            Console.WriteLine("Podaj datę urodzenia zwierzęcia (w formacie RRR-MM-DD): ");
+            DateTime birthDate = DateTime.Parse(Console.ReadLine());
+            Console.Write("Czy zwierze jest ssakiem? (tak/nie): ");
+            bool isMammal = Console.ReadLine().ToLower() = "tak";
+            Console.Write("Podaj rodzaj zwierzęcia (Ptak, Ryba, Gad, Płaz, Ssak): ");
+            Kind kind = (Kind)Enum.Parse(typeof(Kind), Console.ReadLine());
+
+            Animal animal = new Animal(name, birthDate, isMammal, kind);
+
+            animals.Add(animal);
+
+            Console.WriteLine("\nDodano nowe zwierzę: " + animal.Name);
+            Console.WriteLine("\nWciśnij dowolny klawisz, aby wrócić do meny głównego"\n);
+            Console.ReadKey();
+            ShowMainMenu();
         }
     }
 }
