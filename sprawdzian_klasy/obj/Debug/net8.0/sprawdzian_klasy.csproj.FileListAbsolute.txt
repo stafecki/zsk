@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\sprawdzian_klasy\bin\Debug\net8.0\sprawdzian_klasy.exe
+C:\Users\student\Desktop\sprawdzian_klasy\bin\Debug\net8.0\sprawdzian_klasy.deps.json
+C:\Users\student\Desktop\sprawdzian_klasy\bin\Debug\net8.0\sprawdzian_klasy.runtimeconfig.json
+C:\Users\student\Desktop\sprawdzian_klasy\bin\Debug\net8.0\sprawdzian_klasy.dll
+C:\Users\student\Desktop\sprawdzian_klasy\bin\Debug\net8.0\sprawdzian_klasy.pdb
+C:\Users\student\Desktop\sprawdzian_klasy\obj\Debug\net8.0\sprawdzian_klasy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\sprawdzian_klasy\obj\Debug\net8.0\sprawdzian_klasy.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\sprawdzian_klasy\obj\Debug\net8.0\sprawdzian_klasy.AssemblyInfo.cs
+C:\Users\student\Desktop\sprawdzian_klasy\obj\Debug\net8.0\sprawdzian_klasy.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\sprawdzian_klasy\obj\Debug\net8.0\sprawdzian_klasy.dll
+C:\Users\student\Desktop\sprawdzian_klasy\obj\Debug\net8.0\refint\sprawdzian_klasy.dll
+C:\Users\student\Desktop\sprawdzian_klasy\obj\Debug\net8.0\sprawdzian_klasy.pdb
+C:\Users\student\Desktop\sprawdzian_klasy\obj\Debug\net8.0\sprawdzian_klasy.genruntimeconfig.cache
+C:\Users\student\Desktop\sprawdzian_klasy\obj\Debug\net8.0\ref\sprawdzian_klasy.dll
